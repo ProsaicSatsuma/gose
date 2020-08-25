@@ -14,5 +14,3 @@ install:
 script:
   - make all
   - go test -gcflags=-l
-
-
